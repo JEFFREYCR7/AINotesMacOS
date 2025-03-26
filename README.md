@@ -1,4 +1,5 @@
 # AINotesMacOS
 AI Note taking system
 
-<img width="512" alt="mac1024" src="https://github.com/user-attachments/assets/70f65217-2368-4b50-969f-f8856cd8afb6" />
+
+<img width="256" alt="mac512" src="https://github.com/user-attachments/assets/60e0dee7-8cc7-4f23-ba0b-ea19e8987157" />
